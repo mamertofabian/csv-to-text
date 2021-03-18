@@ -23,10 +23,12 @@ const processData = () => {
     .on("data", (row) => {
       data.push(row);
       const line1 = `KeyValues = Vector.Create();`;
-      const line2 = `KeyValues.Push_Back( ${row.nvalue} );`;
-      const line3 = `KeyValues.Push_Back( ${row.pvalue} );`;
+      // const line2 = `KeyValues.Push_Back( ${row.nvalue} );`;
+      // const line3 = `KeyValues.Push_Back( ${row.pvalue} );`;
+      const lineDiff = `KeyValues.Push_Back( ${row.diff} );`;
       const line4 = `MyDates["${formatDate(row.dt)}"] = KeyValues;`;
-      const item = `${line1}\n${line2}\n${line3}\n${line4}\n\n`;
+      // const item = `${line1}\n${line2}\n${line3}\n${line4}\n\n`;
+      const item = `${line1}\n${lineDiff}\n${line4}\n\n`;
       writeStream.write(item);
     })
     .on("end", () => {
