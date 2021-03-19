@@ -9,7 +9,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mamerto Fabian",
   "license": "ISC",
   "dependencies": {
     "csv-parser": "^3.0.0"
