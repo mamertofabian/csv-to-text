@@ -1,2292 +1,573 @@
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -64 );
-MyDates["1181126"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -74 );
-MyDates["1181127"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -45 );
-MyDates["1181128"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -34 );
-MyDates["1181129"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -41 );
-MyDates["1181130"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -18 );
-MyDates["1181203"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -56 );
-MyDates["1181204"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -81 );
-MyDates["1181206"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -76 );
-MyDates["1181207"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -82 );
-MyDates["1181210"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -68 );
-MyDates["1181211"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -60 );
-MyDates["1181212"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -82 );
-MyDates["1181213"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -88 );
-MyDates["1181214"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -114 );
-MyDates["1181217"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -114 );
-MyDates["1181218"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -117 );
-MyDates["1181219"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -116 );
-MyDates["1181220"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -123 );
-MyDates["1181221"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -113 );
-MyDates["1181224"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -90 );
-MyDates["1181226"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -78 );
-MyDates["1181227"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -75 );
-MyDates["1181228"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -70 );
-MyDates["1181231"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -43 );
-MyDates["1190102"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -67 );
-MyDates["1190103"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -13 );
-MyDates["1190104"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 19 );
-MyDates["1190107"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 19 );
-MyDates["1190108"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 31 );
-MyDates["1190109"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 35 );
-MyDates["1190110"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 33 );
-MyDates["1190111"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 38 );
-MyDates["1190114"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 49 );
-MyDates["1190115"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 52 );
-MyDates["1190116"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 56 );
-MyDates["1190117"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 68 );
-MyDates["1190118"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 45 );
-MyDates["1190122"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 34 );
-MyDates["1190123"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 38 );
-MyDates["1190124"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 59 );
-MyDates["1190125"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 31 );
-MyDates["1190128"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 45 );
-MyDates["1190129"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 59 );
-MyDates["1190130"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 61 );
-MyDates["1190131"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 58 );
-MyDates["1190201"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 60 );
-MyDates["1190204"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 63 );
-MyDates["1190205"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 62 );
-MyDates["1190206"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 23 );
-MyDates["1190207"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 17 );
-MyDates["1190208"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 34 );
-MyDates["1190211"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 53 );
-MyDates["1190212"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 87 );
-MyDates["1190213"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 94 );
-MyDates["1190214"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 115 );
-MyDates["1190215"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 120 );
-MyDates["1190219"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 133 );
-MyDates["1190220"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 124 );
-MyDates["1190221"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 129 );
-MyDates["1190222"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 148 );
-MyDates["1190225"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 131 );
-MyDates["1190226"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 120 );
-MyDates["1190227"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 95 );
-MyDates["1190228"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 119 );
-MyDates["1190301"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 106 );
-MyDates["1190304"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 102 );
-MyDates["1190305"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 50 );
-MyDates["1190306"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 24 );
-MyDates["1190307"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 12 );
-MyDates["1190308"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 38 );
-MyDates["1190311"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 47 );
-MyDates["1190312"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 48 );
-MyDates["1190313"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 51 );
-MyDates["1190314"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 57 );
-MyDates["1190315"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 82 );
-MyDates["1190318"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 69 );
-MyDates["1190319"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 50 );
-MyDates["1190320"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 72 );
-MyDates["1190321"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 6 );
-MyDates["1190322"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 6 );
-MyDates["1190325"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 17 );
-MyDates["1190326"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 3 );
-MyDates["1190327"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 26 );
-MyDates["1190328"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 29 );
-MyDates["1190329"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 66 );
-MyDates["1190401"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 55 );
-MyDates["1190402"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 69 );
-MyDates["1190403"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 72 );
-MyDates["1190404"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 101 );
-MyDates["1190405"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 113 );
-MyDates["1190408"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 68 );
-MyDates["1190409"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 88 );
-MyDates["1190410"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 67 );
-MyDates["1190411"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 68 );
-MyDates["1190412"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 48 );
-MyDates["1190417"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 12 );
-MyDates["1190418"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 40 );
-MyDates["1190422"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 57 );
-MyDates["1190423"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 41 );
-MyDates["1190424"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 11 );
-MyDates["1190425"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 18 );
-MyDates["1190426"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 24 );
-MyDates["1190429"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 9 );
-MyDates["1190430"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -9 );
-MyDates["1190501"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -16 );
-MyDates["1190502"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 30 );
-MyDates["1190503"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 38 );
-MyDates["1190506"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -8 );
-MyDates["1190507"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -8 );
-MyDates["1190508"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -23 );
-MyDates["1190509"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -17 );
-MyDates["1190510"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -67 );
-MyDates["1190513"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -51 );
-MyDates["1190514"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -29 );
-MyDates["1190515"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -25 );
-MyDates["1190516"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -44 );
-MyDates["1190517"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -55 );
-MyDates["1190520"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -31 );
-MyDates["1190521"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -43 );
-MyDates["1190522"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -59 );
-MyDates["1190523"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -56 );
-MyDates["1190524"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -59 );
-MyDates["1190528"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -67 );
-MyDates["1190529"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -64 );
-MyDates["1190530"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -72 );
-MyDates["1190531"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -76 );
-MyDates["1190603"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -47 );
-MyDates["1190604"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -52 );
-MyDates["1190605"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -53 );
-MyDates["1190606"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -41 );
-MyDates["1190607"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -38 );
-MyDates["1190610"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -36 );
-MyDates["1190611"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -33 );
-MyDates["1190612"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -10 );
-MyDates["1190613"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -37 );
-MyDates["1190614"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -16 );
-MyDates["1190617"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 11 );
-MyDates["1190618"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 16 );
-MyDates["1190619"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 21 );
-MyDates["1190620"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 10 );
-MyDates["1190621"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 7 );
-MyDates["1190624"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -1 );
-MyDates["1190625"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 14 );
-MyDates["1190626"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 32 );
-MyDates["1190627"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 54 );
-MyDates["1190628"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 64 );
-MyDates["1190701"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 37 );
-MyDates["1190702"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 35 );
-MyDates["1190703"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 44 );
-MyDates["1190705"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 36 );
-MyDates["1190708"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 29 );
-MyDates["1190709"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 29 );
-MyDates["1190710"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 11 );
-MyDates["1190711"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 31 );
-MyDates["1190712"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 22 );
-MyDates["1190715"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 24 );
-MyDates["1190716"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 3 );
-MyDates["1190717"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 7 );
-MyDates["1190718"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 3 );
-MyDates["1190719"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 12 );
-MyDates["1190722"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 23 );
-MyDates["1190723"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 35 );
-MyDates["1190724"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 19 );
-MyDates["1190725"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 30 );
-MyDates["1190726"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 22 );
-MyDates["1190729"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 47 );
-MyDates["1190730"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 26 );
-MyDates["1190731"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -14 );
-MyDates["1190801"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -31 );
-MyDates["1190802"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -72 );
-MyDates["1190805"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -52 );
-MyDates["1190806"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -42 );
-MyDates["1190807"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -25 );
-MyDates["1190808"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -30 );
-MyDates["1190809"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -48 );
-MyDates["1190812"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -30 );
-MyDates["1190813"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -57 );
-MyDates["1190814"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -59 );
-MyDates["1190815"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -39 );
-MyDates["1190816"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -35 );
-MyDates["1190819"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -29 );
-MyDates["1190820"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -15 );
-MyDates["1190821"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -23 );
-MyDates["1190822"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -58 );
-MyDates["1190823"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -51 );
-MyDates["1190826"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -65 );
-MyDates["1190827"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -40 );
-MyDates["1190828"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -18 );
-MyDates["1190829"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -25 );
-MyDates["1190830"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -52 );
-MyDates["1190903"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -30 );
-MyDates["1190904"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 14 );
-MyDates["1190905"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 11 );
-MyDates["1190906"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 48 );
-MyDates["1190909"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 65 );
-MyDates["1190910"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 89 );
-MyDates["1190911"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 71 );
-MyDates["1190912"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 76 );
-MyDates["1190913"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 101 );
-MyDates["1190916"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 89 );
-MyDates["1190917"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 72 );
-MyDates["1190918"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 49 );
-MyDates["1190919"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 37 );
-MyDates["1190920"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 40 );
-MyDates["1190923"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -7 );
-MyDates["1190924"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 2 );
-MyDates["1190925"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -24 );
-MyDates["1190926"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -38 );
-MyDates["1190927"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -26 );
-MyDates["1190930"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -52 );
-MyDates["1191001"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -55 );
-MyDates["1191002"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -50 );
-MyDates["1191003"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -43 );
-MyDates["1191004"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -49 );
-MyDates["1191007"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -70 );
-MyDates["1191008"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -60 );
-MyDates["1191009"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -45 );
-MyDates["1191010"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -7 );
-MyDates["1191011"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -13 );
-MyDates["1191014"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 13 );
-MyDates["1191015"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 6 );
-MyDates["1191016"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 24 );
-MyDates["1191017"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 9 );
-MyDates["1191018"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 27 );
-MyDates["1191021"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 44 );
-MyDates["1191022"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 48 );
-MyDates["1191023"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 38 );
-MyDates["1191024"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 56 );
-MyDates["1191025"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 65 );
-MyDates["1191028"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 56 );
-MyDates["1191029"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 48 );
-MyDates["1191030"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 26 );
-MyDates["1191031"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 66 );
-MyDates["1191101"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 77 );
-MyDates["1191104"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 74 );
-MyDates["1191105"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 31 );
-MyDates["1191106"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 39 );
-MyDates["1191107"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 56 );
-MyDates["1191108"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 47 );
-MyDates["1191111"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 36 );
-MyDates["1191112"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 27 );
-MyDates["1191113"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 25 );
-MyDates["1191114"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 28 );
-MyDates["1191115"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 26 );
-MyDates["1191118"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 26 );
-MyDates["1191119"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 29 );
-MyDates["1191120"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 18 );
-MyDates["1191121"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 32 );
-MyDates["1191122"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 60 );
-MyDates["1191125"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 46 );
-MyDates["1191126"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 61 );
-MyDates["1191127"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 62 );
-MyDates["1191129"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 41 );
-MyDates["1191202"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 26 );
-MyDates["1191203"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 51 );
-MyDates["1191204"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 48 );
-MyDates["1191205"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 76 );
-MyDates["1191206"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 77 );
-MyDates["1191209"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 82 );
-MyDates["1191210"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 75 );
-MyDates["1191211"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 102 );
-MyDates["1191212"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 85 );
-MyDates["1191213"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 99 );
-MyDates["1191216"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 101 );
-MyDates["1191217"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 100 );
-MyDates["1191218"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 108 );
-MyDates["1191219"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 94 );
-MyDates["1191220"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 112 );
-MyDates["1191223"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 108 );
-MyDates["1191224"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 104 );
-MyDates["1191226"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 92 );
-MyDates["1191227"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 77 );
-MyDates["1191230"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 92 );
-MyDates["1191231"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 82 );
-MyDates["1200102"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 58 );
-MyDates["1200103"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 74 );
-MyDates["1200106"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 75 );
-MyDates["1200107"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 70 );
-MyDates["1200108"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 65 );
-MyDates["1200109"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 53 );
-MyDates["1200110"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 52 );
-MyDates["1200113"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 64 );
-MyDates["1200114"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 70 );
-MyDates["1200115"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 88 );
-MyDates["1200116"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 68 );
-MyDates["1200117"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 46 );
-MyDates["1200121"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 35 );
-MyDates["1200122"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 22 );
-MyDates["1200123"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -13 );
-MyDates["1200124"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -37 );
-MyDates["1200127"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -26 );
-MyDates["1200128"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -30 );
-MyDates["1200129"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -37 );
-MyDates["1200130"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -51 );
-MyDates["1200131"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -31 );
-MyDates["1200203"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -6 );
-MyDates["1200204"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 27 );
-MyDates["1200205"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 20 );
-MyDates["1200206"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -6 );
-MyDates["1200207"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 1 );
-MyDates["1200210"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 26 );
-MyDates["1200211"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 40 );
-MyDates["1200212"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 28 );
-MyDates["1200213"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 24 );
-MyDates["1200214"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 27 );
-MyDates["1200218"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 34 );
-MyDates["1200219"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 38 );
-MyDates["1200220"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 21 );
-MyDates["1200221"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -29 );
-MyDates["1200224"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -69 );
-MyDates["1200225"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -87 );
-MyDates["1200226"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -118 );
-MyDates["1200227"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -104 );
-MyDates["1200228"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -85 );
-MyDates["1200302"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -95 );
-MyDates["1200303"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -71 );
-MyDates["1200304"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -81 );
-MyDates["1200305"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -90 );
-MyDates["1200306"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -108 );
-MyDates["1200309"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -110 );
-MyDates["1200310"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -117 );
-MyDates["1200311"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -127 );
-MyDates["1200312"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -129 );
-MyDates["1200313"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -173 );
-MyDates["1200316"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -171 );
-MyDates["1200317"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -175 );
-MyDates["1200318"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -178 );
-MyDates["1200319"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -175 );
-MyDates["1200320"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -251 );
-MyDates["1200323"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -243 );
-MyDates["1200324"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -215 );
-MyDates["1200325"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -182 );
-MyDates["1200326"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -208 );
-MyDates["1200327"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -137 );
-MyDates["1200330"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -125 );
-MyDates["1200331"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -158 );
-MyDates["1200401"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -146 );
-MyDates["1200402"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -156 );
-MyDates["1200403"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -135 );
-MyDates["1200406"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -123 );
-MyDates["1200407"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -62 );
-MyDates["1200408"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -24 );
-MyDates["1200409"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -44 );
-MyDates["1200413"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -14 );
-MyDates["1200414"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -81 );
-MyDates["1200415"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -87 );
-MyDates["1200416"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -32 );
-MyDates["1200417"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -35 );
-MyDates["1200420"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -44 );
-MyDates["1200421"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -17 );
-MyDates["1200422"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 22 );
-MyDates["1200423"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 36 );
-MyDates["1200424"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 82 );
-MyDates["1200427"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 107 );
-MyDates["1200428"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 133 );
-MyDates["1200429"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 113 );
-MyDates["1200430"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 44 );
-MyDates["1200501"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 93 );
-MyDates["1200504"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 91 );
-MyDates["1200505"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 96 );
-MyDates["1200506"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 106 );
-MyDates["1200507"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 140 );
-MyDates["1200508"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 148 );
-MyDates["1200511"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 111 );
-MyDates["1200512"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 59 );
-MyDates["1200513"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 54 );
-MyDates["1200514"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 68 );
-MyDates["1200515"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 115 );
-MyDates["1200518"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 114 );
-MyDates["1200519"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 139 );
-MyDates["1200520"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 134 );
-MyDates["1200521"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 128 );
-MyDates["1200522"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 151 );
-MyDates["1200526"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 162 );
-MyDates["1200527"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 138 );
-MyDates["1200528"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 132 );
-MyDates["1200529"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 163 );
-MyDates["1200601"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 172 );
-MyDates["1200602"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 181 );
-MyDates["1200603"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 174 );
-MyDates["1200604"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 197 );
-MyDates["1200605"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 207 );
-MyDates["1200608"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 195 );
-MyDates["1200609"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 172 );
-MyDates["1200610"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 21 );
-MyDates["1200611"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 67 );
-MyDates["1200612"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 94 );
-MyDates["1200615"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 115 );
-MyDates["1200616"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 71 );
-MyDates["1200617"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 69 );
-MyDates["1200618"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 59 );
-MyDates["1200619"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 65 );
-MyDates["1200622"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 62 );
-MyDates["1200623"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -10 );
-MyDates["1200624"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -12 );
-MyDates["1200625"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -64 );
-MyDates["1200626"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -7 );
-MyDates["1200629"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 21 );
-MyDates["1200630"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 4 );
-MyDates["1200701"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 16 );
-MyDates["1200702"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 39 );
-MyDates["1200706"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -1 );
-MyDates["1200707"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 9 );
-MyDates["1200708"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -41 );
-MyDates["1200709"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 6 );
-MyDates["1200710"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -5 );
-MyDates["1200713"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 16 );
-MyDates["1200714"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 69 );
-MyDates["1200715"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 68 );
-MyDates["1200716"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 73 );
-MyDates["1200717"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 66 );
-MyDates["1200720"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 115 );
-MyDates["1200721"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 104 );
-MyDates["1200722"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 86 );
-MyDates["1200723"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 54 );
-MyDates["1200724"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 87 );
-MyDates["1200727"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 52 );
-MyDates["1200728"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 79 );
-MyDates["1200729"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 47 );
-MyDates["1200730"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 11 );
-MyDates["1200731"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 50 );
-MyDates["1200803"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 56 );
-MyDates["1200804"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 88 );
-MyDates["1200805"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 71 );
-MyDates["1200806"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 87 );
-MyDates["1200807"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 152 );
-MyDates["1200810"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 128 );
-MyDates["1200811"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 116 );
-MyDates["1200812"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 99 );
-MyDates["1200813"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 107 );
-MyDates["1200814"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 116 );
-MyDates["1200817"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 90 );
-MyDates["1200818"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 91 );
-MyDates["1200819"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 59 );
-MyDates["1200820"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 37 );
-MyDates["1200821"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 56 );
-MyDates["1200824"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 59 );
-MyDates["1200825"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 44 );
-MyDates["1200826"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 45 );
-MyDates["1200827"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 69 );
-MyDates["1200828"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 44 );
-MyDates["1200831"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 56 );
-MyDates["1200901"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 60 );
-MyDates["1200902"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -6 );
-MyDates["1200903"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 3 );
-MyDates["1200904"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -47 );
-MyDates["1200908"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -13 );
-MyDates["1200909"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -26 );
-MyDates["1200910"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -35 );
-MyDates["1200911"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -9 );
-MyDates["1200914"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 6 );
-MyDates["1200915"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 28 );
-MyDates["1200916"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 12 );
-MyDates["1200917"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 22 );
-MyDates["1200918"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -45 );
-MyDates["1200921"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -46 );
-MyDates["1200922"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -76 );
-MyDates["1200923"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -93 );
-MyDates["1200924"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -65 );
-MyDates["1200925"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -35 );
-MyDates["1200928"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -21 );
-MyDates["1200929"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -24 );
-MyDates["1200930"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -8 );
-MyDates["1201001"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 0 );
-MyDates["1201002"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 47 );
-MyDates["1201005"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 22 );
-MyDates["1201006"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 61 );
-MyDates["1201007"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 88 );
-MyDates["1201008"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 101 );
-MyDates["1201009"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 96 );
-MyDates["1201012"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 80 );
-MyDates["1201013"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 77 );
-MyDates["1201014"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 85 );
-MyDates["1201015"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 54 );
-MyDates["1201016"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 34 );
-MyDates["1201019"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 43 );
-MyDates["1201020"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 7 );
-MyDates["1201021"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 45 );
-MyDates["1201022"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 54 );
-MyDates["1201023"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -7 );
-MyDates["1201026"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -32 );
-MyDates["1201027"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -80 );
-MyDates["1201028"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -65 );
-MyDates["1201029"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -91 );
-MyDates["1201030"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -42 );
-MyDates["1201102"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 3 );
-MyDates["1201103"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 6 );
-MyDates["1201104"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 55 );
-MyDates["1201105"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 21 );
-MyDates["1201106"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 86 );
-MyDates["1201109"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 98 );
-MyDates["1201110"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 110 );
-MyDates["1201111"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 79 );
-MyDates["1201112"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 103 );
-MyDates["1201113"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 140 );
-MyDates["1201116"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 137 );
-MyDates["1201117"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 144 );
-MyDates["1201118"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 151 );
-MyDates["1201119"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 150 );
-MyDates["1201120"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 187 );
-MyDates["1201123"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 186 );
-MyDates["1201124"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 187 );
-MyDates["1201125"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 176 );
-MyDates["1201127"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 214 );
-MyDates["1201130"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 202 );
-MyDates["1201201"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 198 );
-MyDates["1201202"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 192 );
-MyDates["1201203"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 200 );
-MyDates["1201204"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 179 );
-MyDates["1201207"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 193 );
-MyDates["1201208"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 160 );
-MyDates["1201209"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 169 );
-MyDates["1201210"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 152 );
-MyDates["1201211"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 140 );
-MyDates["1201214"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 168 );
-MyDates["1201215"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 154 );
-MyDates["1201216"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 161 );
-MyDates["1201217"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 157 );
-MyDates["1201218"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 122 );
-MyDates["1201221"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 106 );
-MyDates["1201222"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 152 );
-MyDates["1201223"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 120 );
-MyDates["1201224"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 107 );
-MyDates["1201228"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 66 );
-MyDates["1201229"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 99 );
-MyDates["1201230"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 85 );
-MyDates["1201231"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 71 );
-MyDates["1210104"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 128 );
-MyDates["1210105"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 144 );
-MyDates["1210106"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 186 );
-MyDates["1210107"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 172 );
-MyDates["1210108"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 155 );
-MyDates["1210111"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 178 );
-MyDates["1210112"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 171 );
-MyDates["1210113"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 200 );
-MyDates["1210114"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 169 );
-MyDates["1210115"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 192 );
-MyDates["1210119"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 178 );
-MyDates["1210120"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 152 );
-MyDates["1210121"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 163 );
-MyDates["1210122"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 132 );
-MyDates["1210125"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 116 );
-MyDates["1210126"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 12 );
-MyDates["1210127"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 54 );
-MyDates["1210128"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -11 );
-MyDates["1210129"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 56 );
-MyDates["1210201"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 90 );
-MyDates["1210202"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 128 );
-MyDates["1210203"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 172 );
-MyDates["1210204"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 184 );
-MyDates["1210205"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 210 );
-MyDates["1210208"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 204 );
-MyDates["1210209"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 192 );
-MyDates["1210210"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 168 );
-MyDates["1210211"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 177 );
-MyDates["1210212"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 180 );
-MyDates["1210216"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 156 );
-MyDates["1210217"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 87 );
-MyDates["1210218"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 123 );
-MyDates["1210219"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 105 );
-MyDates["1210222"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 45 );
-MyDates["1210223"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 71 );
-MyDates["1210224"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 12 );
-MyDates["1210225"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -7 );
-MyDates["1210226"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 39 );
-MyDates["1210301"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 37 );
-MyDates["1210302"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 19 );
-MyDates["1210303"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -37 );
-MyDates["1210304"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -23 );
-MyDates["1210305"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( -27 );
-MyDates["1210308"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 17 );
-MyDates["1210309"] = KeyValues;
-
-KeyValues = Vector.Create();
-KeyValues.Push_Back( 35 );
-MyDates["1210310"] = KeyValues;
-
+MyDates["1181126"] = RandomVector();
+MyDates["1181127"] = RandomVector();
+MyDates["1181128"] = RandomVector();
+MyDates["1181129"] = RandomVector();
+MyDates["1181130"] = RandomVector();
+MyDates["1181203"] = RandomVector();
+MyDates["1181204"] = RandomVector();
+MyDates["1181206"] = RandomVector();
+MyDates["1181207"] = RandomVector();
+MyDates["1181210"] = RandomVector();
+MyDates["1181211"] = RandomVector();
+MyDates["1181212"] = RandomVector();
+MyDates["1181213"] = RandomVector();
+MyDates["1181214"] = RandomVector();
+MyDates["1181217"] = RandomVector();
+MyDates["1181218"] = RandomVector();
+MyDates["1181219"] = RandomVector();
+MyDates["1181220"] = RandomVector();
+MyDates["1181221"] = RandomVector();
+MyDates["1181224"] = RandomVector();
+MyDates["1181226"] = RandomVector();
+MyDates["1181227"] = RandomVector();
+MyDates["1181228"] = RandomVector();
+MyDates["1181231"] = RandomVector();
+MyDates["1190102"] = RandomVector();
+MyDates["1190103"] = RandomVector();
+MyDates["1190104"] = RandomVector();
+MyDates["1190107"] = RandomVector();
+MyDates["1190108"] = RandomVector();
+MyDates["1190109"] = RandomVector();
+MyDates["1190110"] = RandomVector();
+MyDates["1190111"] = RandomVector();
+MyDates["1190114"] = RandomVector();
+MyDates["1190115"] = RandomVector();
+MyDates["1190116"] = RandomVector();
+MyDates["1190117"] = RandomVector();
+MyDates["1190118"] = RandomVector();
+MyDates["1190122"] = RandomVector();
+MyDates["1190123"] = RandomVector();
+MyDates["1190124"] = RandomVector();
+MyDates["1190125"] = RandomVector();
+MyDates["1190128"] = RandomVector();
+MyDates["1190129"] = RandomVector();
+MyDates["1190130"] = RandomVector();
+MyDates["1190131"] = RandomVector();
+MyDates["1190201"] = RandomVector();
+MyDates["1190204"] = RandomVector();
+MyDates["1190205"] = RandomVector();
+MyDates["1190206"] = RandomVector();
+MyDates["1190207"] = RandomVector();
+MyDates["1190208"] = RandomVector();
+MyDates["1190211"] = RandomVector();
+MyDates["1190212"] = RandomVector();
+MyDates["1190213"] = RandomVector();
+MyDates["1190214"] = RandomVector();
+MyDates["1190215"] = RandomVector();
+MyDates["1190219"] = RandomVector();
+MyDates["1190220"] = RandomVector();
+MyDates["1190221"] = RandomVector();
+MyDates["1190222"] = RandomVector();
+MyDates["1190225"] = RandomVector();
+MyDates["1190226"] = RandomVector();
+MyDates["1190227"] = RandomVector();
+MyDates["1190228"] = RandomVector();
+MyDates["1190301"] = RandomVector();
+MyDates["1190304"] = RandomVector();
+MyDates["1190305"] = RandomVector();
+MyDates["1190306"] = RandomVector();
+MyDates["1190307"] = RandomVector();
+MyDates["1190308"] = RandomVector();
+MyDates["1190311"] = RandomVector();
+MyDates["1190312"] = RandomVector();
+MyDates["1190313"] = RandomVector();
+MyDates["1190314"] = RandomVector();
+MyDates["1190315"] = RandomVector();
+MyDates["1190318"] = RandomVector();
+MyDates["1190319"] = RandomVector();
+MyDates["1190320"] = RandomVector();
+MyDates["1190321"] = RandomVector();
+MyDates["1190322"] = RandomVector();
+MyDates["1190325"] = RandomVector();
+MyDates["1190326"] = RandomVector();
+MyDates["1190327"] = RandomVector();
+MyDates["1190328"] = RandomVector();
+MyDates["1190329"] = RandomVector();
+MyDates["1190401"] = RandomVector();
+MyDates["1190402"] = RandomVector();
+MyDates["1190403"] = RandomVector();
+MyDates["1190404"] = RandomVector();
+MyDates["1190405"] = RandomVector();
+MyDates["1190408"] = RandomVector();
+MyDates["1190409"] = RandomVector();
+MyDates["1190410"] = RandomVector();
+MyDates["1190411"] = RandomVector();
+MyDates["1190412"] = RandomVector();
+MyDates["1190417"] = RandomVector();
+MyDates["1190418"] = RandomVector();
+MyDates["1190422"] = RandomVector();
+MyDates["1190423"] = RandomVector();
+MyDates["1190424"] = RandomVector();
+MyDates["1190425"] = RandomVector();
+MyDates["1190426"] = RandomVector();
+MyDates["1190429"] = RandomVector();
+MyDates["1190430"] = RandomVector();
+MyDates["1190501"] = RandomVector();
+MyDates["1190502"] = RandomVector();
+MyDates["1190503"] = RandomVector();
+MyDates["1190506"] = RandomVector();
+MyDates["1190507"] = RandomVector();
+MyDates["1190508"] = RandomVector();
+MyDates["1190509"] = RandomVector();
+MyDates["1190510"] = RandomVector();
+MyDates["1190513"] = RandomVector();
+MyDates["1190514"] = RandomVector();
+MyDates["1190515"] = RandomVector();
+MyDates["1190516"] = RandomVector();
+MyDates["1190517"] = RandomVector();
+MyDates["1190520"] = RandomVector();
+MyDates["1190521"] = RandomVector();
+MyDates["1190522"] = RandomVector();
+MyDates["1190523"] = RandomVector();
+MyDates["1190524"] = RandomVector();
+MyDates["1190528"] = RandomVector();
+MyDates["1190529"] = RandomVector();
+MyDates["1190530"] = RandomVector();
+MyDates["1190531"] = RandomVector();
+MyDates["1190603"] = RandomVector();
+MyDates["1190604"] = RandomVector();
+MyDates["1190605"] = RandomVector();
+MyDates["1190606"] = RandomVector();
+MyDates["1190607"] = RandomVector();
+MyDates["1190610"] = RandomVector();
+MyDates["1190611"] = RandomVector();
+MyDates["1190612"] = RandomVector();
+MyDates["1190613"] = RandomVector();
+MyDates["1190614"] = RandomVector();
+MyDates["1190617"] = RandomVector();
+MyDates["1190618"] = RandomVector();
+MyDates["1190619"] = RandomVector();
+MyDates["1190620"] = RandomVector();
+MyDates["1190621"] = RandomVector();
+MyDates["1190624"] = RandomVector();
+MyDates["1190625"] = RandomVector();
+MyDates["1190626"] = RandomVector();
+MyDates["1190627"] = RandomVector();
+MyDates["1190628"] = RandomVector();
+MyDates["1190701"] = RandomVector();
+MyDates["1190702"] = RandomVector();
+MyDates["1190703"] = RandomVector();
+MyDates["1190705"] = RandomVector();
+MyDates["1190708"] = RandomVector();
+MyDates["1190709"] = RandomVector();
+MyDates["1190710"] = RandomVector();
+MyDates["1190711"] = RandomVector();
+MyDates["1190712"] = RandomVector();
+MyDates["1190715"] = RandomVector();
+MyDates["1190716"] = RandomVector();
+MyDates["1190717"] = RandomVector();
+MyDates["1190718"] = RandomVector();
+MyDates["1190719"] = RandomVector();
+MyDates["1190722"] = RandomVector();
+MyDates["1190723"] = RandomVector();
+MyDates["1190724"] = RandomVector();
+MyDates["1190725"] = RandomVector();
+MyDates["1190726"] = RandomVector();
+MyDates["1190729"] = RandomVector();
+MyDates["1190730"] = RandomVector();
+MyDates["1190731"] = RandomVector();
+MyDates["1190801"] = RandomVector();
+MyDates["1190802"] = RandomVector();
+MyDates["1190805"] = RandomVector();
+MyDates["1190806"] = RandomVector();
+MyDates["1190807"] = RandomVector();
+MyDates["1190808"] = RandomVector();
+MyDates["1190809"] = RandomVector();
+MyDates["1190812"] = RandomVector();
+MyDates["1190813"] = RandomVector();
+MyDates["1190814"] = RandomVector();
+MyDates["1190815"] = RandomVector();
+MyDates["1190816"] = RandomVector();
+MyDates["1190819"] = RandomVector();
+MyDates["1190820"] = RandomVector();
+MyDates["1190821"] = RandomVector();
+MyDates["1190822"] = RandomVector();
+MyDates["1190823"] = RandomVector();
+MyDates["1190826"] = RandomVector();
+MyDates["1190827"] = RandomVector();
+MyDates["1190828"] = RandomVector();
+MyDates["1190829"] = RandomVector();
+MyDates["1190830"] = RandomVector();
+MyDates["1190903"] = RandomVector();
+MyDates["1190904"] = RandomVector();
+MyDates["1190905"] = RandomVector();
+MyDates["1190906"] = RandomVector();
+MyDates["1190909"] = RandomVector();
+MyDates["1190910"] = RandomVector();
+MyDates["1190911"] = RandomVector();
+MyDates["1190912"] = RandomVector();
+MyDates["1190913"] = RandomVector();
+MyDates["1190916"] = RandomVector();
+MyDates["1190917"] = RandomVector();
+MyDates["1190918"] = RandomVector();
+MyDates["1190919"] = RandomVector();
+MyDates["1190920"] = RandomVector();
+MyDates["1190923"] = RandomVector();
+MyDates["1190924"] = RandomVector();
+MyDates["1190925"] = RandomVector();
+MyDates["1190926"] = RandomVector();
+MyDates["1190927"] = RandomVector();
+MyDates["1190930"] = RandomVector();
+MyDates["1191001"] = RandomVector();
+MyDates["1191002"] = RandomVector();
+MyDates["1191003"] = RandomVector();
+MyDates["1191004"] = RandomVector();
+MyDates["1191007"] = RandomVector();
+MyDates["1191008"] = RandomVector();
+MyDates["1191009"] = RandomVector();
+MyDates["1191010"] = RandomVector();
+MyDates["1191011"] = RandomVector();
+MyDates["1191014"] = RandomVector();
+MyDates["1191015"] = RandomVector();
+MyDates["1191016"] = RandomVector();
+MyDates["1191017"] = RandomVector();
+MyDates["1191018"] = RandomVector();
+MyDates["1191021"] = RandomVector();
+MyDates["1191022"] = RandomVector();
+MyDates["1191023"] = RandomVector();
+MyDates["1191024"] = RandomVector();
+MyDates["1191025"] = RandomVector();
+MyDates["1191028"] = RandomVector();
+MyDates["1191029"] = RandomVector();
+MyDates["1191030"] = RandomVector();
+MyDates["1191031"] = RandomVector();
+MyDates["1191101"] = RandomVector();
+MyDates["1191104"] = RandomVector();
+MyDates["1191105"] = RandomVector();
+MyDates["1191106"] = RandomVector();
+MyDates["1191107"] = RandomVector();
+MyDates["1191108"] = RandomVector();
+MyDates["1191111"] = RandomVector();
+MyDates["1191112"] = RandomVector();
+MyDates["1191113"] = RandomVector();
+MyDates["1191114"] = RandomVector();
+MyDates["1191115"] = RandomVector();
+MyDates["1191118"] = RandomVector();
+MyDates["1191119"] = RandomVector();
+MyDates["1191120"] = RandomVector();
+MyDates["1191121"] = RandomVector();
+MyDates["1191122"] = RandomVector();
+MyDates["1191125"] = RandomVector();
+MyDates["1191126"] = RandomVector();
+MyDates["1191127"] = RandomVector();
+MyDates["1191129"] = RandomVector();
+MyDates["1191202"] = RandomVector();
+MyDates["1191203"] = RandomVector();
+MyDates["1191204"] = RandomVector();
+MyDates["1191205"] = RandomVector();
+MyDates["1191206"] = RandomVector();
+MyDates["1191209"] = RandomVector();
+MyDates["1191210"] = RandomVector();
+MyDates["1191211"] = RandomVector();
+MyDates["1191212"] = RandomVector();
+MyDates["1191213"] = RandomVector();
+MyDates["1191216"] = RandomVector();
+MyDates["1191217"] = RandomVector();
+MyDates["1191218"] = RandomVector();
+MyDates["1191219"] = RandomVector();
+MyDates["1191220"] = RandomVector();
+MyDates["1191223"] = RandomVector();
+MyDates["1191224"] = RandomVector();
+MyDates["1191226"] = RandomVector();
+MyDates["1191227"] = RandomVector();
+MyDates["1191230"] = RandomVector();
+MyDates["1191231"] = RandomVector();
+MyDates["1200102"] = RandomVector();
+MyDates["1200103"] = RandomVector();
+MyDates["1200106"] = RandomVector();
+MyDates["1200107"] = RandomVector();
+MyDates["1200108"] = RandomVector();
+MyDates["1200109"] = RandomVector();
+MyDates["1200110"] = RandomVector();
+MyDates["1200113"] = RandomVector();
+MyDates["1200114"] = RandomVector();
+MyDates["1200115"] = RandomVector();
+MyDates["1200116"] = RandomVector();
+MyDates["1200117"] = RandomVector();
+MyDates["1200121"] = RandomVector();
+MyDates["1200122"] = RandomVector();
+MyDates["1200123"] = RandomVector();
+MyDates["1200124"] = RandomVector();
+MyDates["1200127"] = RandomVector();
+MyDates["1200128"] = RandomVector();
+MyDates["1200129"] = RandomVector();
+MyDates["1200130"] = RandomVector();
+MyDates["1200131"] = RandomVector();
+MyDates["1200203"] = RandomVector();
+MyDates["1200204"] = RandomVector();
+MyDates["1200205"] = RandomVector();
+MyDates["1200206"] = RandomVector();
+MyDates["1200207"] = RandomVector();
+MyDates["1200210"] = RandomVector();
+MyDates["1200211"] = RandomVector();
+MyDates["1200212"] = RandomVector();
+MyDates["1200213"] = RandomVector();
+MyDates["1200214"] = RandomVector();
+MyDates["1200218"] = RandomVector();
+MyDates["1200219"] = RandomVector();
+MyDates["1200220"] = RandomVector();
+MyDates["1200221"] = RandomVector();
+MyDates["1200224"] = RandomVector();
+MyDates["1200225"] = RandomVector();
+MyDates["1200226"] = RandomVector();
+MyDates["1200227"] = RandomVector();
+MyDates["1200228"] = RandomVector();
+MyDates["1200302"] = RandomVector();
+MyDates["1200303"] = RandomVector();
+MyDates["1200304"] = RandomVector();
+MyDates["1200305"] = RandomVector();
+MyDates["1200306"] = RandomVector();
+MyDates["1200309"] = RandomVector();
+MyDates["1200310"] = RandomVector();
+MyDates["1200311"] = RandomVector();
+MyDates["1200312"] = RandomVector();
+MyDates["1200313"] = RandomVector();
+MyDates["1200316"] = RandomVector();
+MyDates["1200317"] = RandomVector();
+MyDates["1200318"] = RandomVector();
+MyDates["1200319"] = RandomVector();
+MyDates["1200320"] = RandomVector();
+MyDates["1200323"] = RandomVector();
+MyDates["1200324"] = RandomVector();
+MyDates["1200325"] = RandomVector();
+MyDates["1200326"] = RandomVector();
+MyDates["1200327"] = RandomVector();
+MyDates["1200330"] = RandomVector();
+MyDates["1200331"] = RandomVector();
+MyDates["1200401"] = RandomVector();
+MyDates["1200402"] = RandomVector();
+MyDates["1200403"] = RandomVector();
+MyDates["1200406"] = RandomVector();
+MyDates["1200407"] = RandomVector();
+MyDates["1200408"] = RandomVector();
+MyDates["1200409"] = RandomVector();
+MyDates["1200413"] = RandomVector();
+MyDates["1200414"] = RandomVector();
+MyDates["1200415"] = RandomVector();
+MyDates["1200416"] = RandomVector();
+MyDates["1200417"] = RandomVector();
+MyDates["1200420"] = RandomVector();
+MyDates["1200421"] = RandomVector();
+MyDates["1200422"] = RandomVector();
+MyDates["1200423"] = RandomVector();
+MyDates["1200424"] = RandomVector();
+MyDates["1200427"] = RandomVector();
+MyDates["1200428"] = RandomVector();
+MyDates["1200429"] = RandomVector();
+MyDates["1200430"] = RandomVector();
+MyDates["1200501"] = RandomVector();
+MyDates["1200504"] = RandomVector();
+MyDates["1200505"] = RandomVector();
+MyDates["1200506"] = RandomVector();
+MyDates["1200507"] = RandomVector();
+MyDates["1200508"] = RandomVector();
+MyDates["1200511"] = RandomVector();
+MyDates["1200512"] = RandomVector();
+MyDates["1200513"] = RandomVector();
+MyDates["1200514"] = RandomVector();
+MyDates["1200515"] = RandomVector();
+MyDates["1200518"] = RandomVector();
+MyDates["1200519"] = RandomVector();
+MyDates["1200520"] = RandomVector();
+MyDates["1200521"] = RandomVector();
+MyDates["1200522"] = RandomVector();
+MyDates["1200526"] = RandomVector();
+MyDates["1200527"] = RandomVector();
+MyDates["1200528"] = RandomVector();
+MyDates["1200529"] = RandomVector();
+MyDates["1200601"] = RandomVector();
+MyDates["1200602"] = RandomVector();
+MyDates["1200603"] = RandomVector();
+MyDates["1200604"] = RandomVector();
+MyDates["1200605"] = RandomVector();
+MyDates["1200608"] = RandomVector();
+MyDates["1200609"] = RandomVector();
+MyDates["1200610"] = RandomVector();
+MyDates["1200611"] = RandomVector();
+MyDates["1200612"] = RandomVector();
+MyDates["1200615"] = RandomVector();
+MyDates["1200616"] = RandomVector();
+MyDates["1200617"] = RandomVector();
+MyDates["1200618"] = RandomVector();
+MyDates["1200619"] = RandomVector();
+MyDates["1200622"] = RandomVector();
+MyDates["1200623"] = RandomVector();
+MyDates["1200624"] = RandomVector();
+MyDates["1200625"] = RandomVector();
+MyDates["1200626"] = RandomVector();
+MyDates["1200629"] = RandomVector();
+MyDates["1200630"] = RandomVector();
+MyDates["1200701"] = RandomVector();
+MyDates["1200702"] = RandomVector();
+MyDates["1200706"] = RandomVector();
+MyDates["1200707"] = RandomVector();
+MyDates["1200708"] = RandomVector();
+MyDates["1200709"] = RandomVector();
+MyDates["1200710"] = RandomVector();
+MyDates["1200713"] = RandomVector();
+MyDates["1200714"] = RandomVector();
+MyDates["1200715"] = RandomVector();
+MyDates["1200716"] = RandomVector();
+MyDates["1200717"] = RandomVector();
+MyDates["1200720"] = RandomVector();
+MyDates["1200721"] = RandomVector();
+MyDates["1200722"] = RandomVector();
+MyDates["1200723"] = RandomVector();
+MyDates["1200724"] = RandomVector();
+MyDates["1200727"] = RandomVector();
+MyDates["1200728"] = RandomVector();
+MyDates["1200729"] = RandomVector();
+MyDates["1200730"] = RandomVector();
+MyDates["1200731"] = RandomVector();
+MyDates["1200803"] = RandomVector();
+MyDates["1200804"] = RandomVector();
+MyDates["1200805"] = RandomVector();
+MyDates["1200806"] = RandomVector();
+MyDates["1200807"] = RandomVector();
+MyDates["1200810"] = RandomVector();
+MyDates["1200811"] = RandomVector();
+MyDates["1200812"] = RandomVector();
+MyDates["1200813"] = RandomVector();
+MyDates["1200814"] = RandomVector();
+MyDates["1200817"] = RandomVector();
+MyDates["1200818"] = RandomVector();
+MyDates["1200819"] = RandomVector();
+MyDates["1200820"] = RandomVector();
+MyDates["1200821"] = RandomVector();
+MyDates["1200824"] = RandomVector();
+MyDates["1200825"] = RandomVector();
+MyDates["1200826"] = RandomVector();
+MyDates["1200827"] = RandomVector();
+MyDates["1200828"] = RandomVector();
+MyDates["1200831"] = RandomVector();
+MyDates["1200901"] = RandomVector();
+MyDates["1200902"] = RandomVector();
+MyDates["1200903"] = RandomVector();
+MyDates["1200904"] = RandomVector();
+MyDates["1200908"] = RandomVector();
+MyDates["1200909"] = RandomVector();
+MyDates["1200910"] = RandomVector();
+MyDates["1200911"] = RandomVector();
+MyDates["1200914"] = RandomVector();
+MyDates["1200915"] = RandomVector();
+MyDates["1200916"] = RandomVector();
+MyDates["1200917"] = RandomVector();
+MyDates["1200918"] = RandomVector();
+MyDates["1200921"] = RandomVector();
+MyDates["1200922"] = RandomVector();
+MyDates["1200923"] = RandomVector();
+MyDates["1200924"] = RandomVector();
+MyDates["1200925"] = RandomVector();
+MyDates["1200928"] = RandomVector();
+MyDates["1200929"] = RandomVector();
+MyDates["1200930"] = RandomVector();
+MyDates["1201001"] = RandomVector();
+MyDates["1201002"] = RandomVector();
+MyDates["1201005"] = RandomVector();
+MyDates["1201006"] = RandomVector();
+MyDates["1201007"] = RandomVector();
+MyDates["1201008"] = RandomVector();
+MyDates["1201009"] = RandomVector();
+MyDates["1201012"] = RandomVector();
+MyDates["1201013"] = RandomVector();
+MyDates["1201014"] = RandomVector();
+MyDates["1201015"] = RandomVector();
+MyDates["1201016"] = RandomVector();
+MyDates["1201019"] = RandomVector();
+MyDates["1201020"] = RandomVector();
+MyDates["1201021"] = RandomVector();
+MyDates["1201022"] = RandomVector();
+MyDates["1201023"] = RandomVector();
+MyDates["1201026"] = RandomVector();
+MyDates["1201027"] = RandomVector();
+MyDates["1201028"] = RandomVector();
+MyDates["1201029"] = RandomVector();
+MyDates["1201030"] = RandomVector();
+MyDates["1201102"] = RandomVector();
+MyDates["1201103"] = RandomVector();
+MyDates["1201104"] = RandomVector();
+MyDates["1201105"] = RandomVector();
+MyDates["1201106"] = RandomVector();
+MyDates["1201109"] = RandomVector();
+MyDates["1201110"] = RandomVector();
+MyDates["1201111"] = RandomVector();
+MyDates["1201112"] = RandomVector();
+MyDates["1201113"] = RandomVector();
+MyDates["1201116"] = RandomVector();
+MyDates["1201117"] = RandomVector();
+MyDates["1201118"] = RandomVector();
+MyDates["1201119"] = RandomVector();
+MyDates["1201120"] = RandomVector();
+MyDates["1201123"] = RandomVector();
+MyDates["1201124"] = RandomVector();
+MyDates["1201125"] = RandomVector();
+MyDates["1201127"] = RandomVector();
+MyDates["1201130"] = RandomVector();
+MyDates["1201201"] = RandomVector();
+MyDates["1201202"] = RandomVector();
+MyDates["1201203"] = RandomVector();
+MyDates["1201204"] = RandomVector();
+MyDates["1201207"] = RandomVector();
+MyDates["1201208"] = RandomVector();
+MyDates["1201209"] = RandomVector();
+MyDates["1201210"] = RandomVector();
+MyDates["1201211"] = RandomVector();
+MyDates["1201214"] = RandomVector();
+MyDates["1201215"] = RandomVector();
+MyDates["1201216"] = RandomVector();
+MyDates["1201217"] = RandomVector();
+MyDates["1201218"] = RandomVector();
+MyDates["1201221"] = RandomVector();
+MyDates["1201222"] = RandomVector();
+MyDates["1201223"] = RandomVector();
+MyDates["1201224"] = RandomVector();
+MyDates["1201228"] = RandomVector();
+MyDates["1201229"] = RandomVector();
+MyDates["1201230"] = RandomVector();
+MyDates["1201231"] = RandomVector();
+MyDates["1210104"] = RandomVector();
+MyDates["1210105"] = RandomVector();
+MyDates["1210106"] = RandomVector();
+MyDates["1210107"] = RandomVector();
+MyDates["1210108"] = RandomVector();
+MyDates["1210111"] = RandomVector();
+MyDates["1210112"] = RandomVector();
+MyDates["1210113"] = RandomVector();
+MyDates["1210114"] = RandomVector();
+MyDates["1210115"] = RandomVector();
+MyDates["1210119"] = RandomVector();
+MyDates["1210120"] = RandomVector();
+MyDates["1210121"] = RandomVector();
+MyDates["1210122"] = RandomVector();
+MyDates["1210125"] = RandomVector();
+MyDates["1210126"] = RandomVector();
+MyDates["1210127"] = RandomVector();
+MyDates["1210128"] = RandomVector();
+MyDates["1210129"] = RandomVector();
+MyDates["1210201"] = RandomVector();
+MyDates["1210202"] = RandomVector();
+MyDates["1210203"] = RandomVector();
+MyDates["1210204"] = RandomVector();
+MyDates["1210205"] = RandomVector();
+MyDates["1210208"] = RandomVector();
+MyDates["1210209"] = RandomVector();
+MyDates["1210210"] = RandomVector();
+MyDates["1210211"] = RandomVector();
+MyDates["1210212"] = RandomVector();
+MyDates["1210216"] = RandomVector();
+MyDates["1210217"] = RandomVector();
+MyDates["1210218"] = RandomVector();
+MyDates["1210219"] = RandomVector();
+MyDates["1210222"] = RandomVector();
+MyDates["1210223"] = RandomVector();
+MyDates["1210224"] = RandomVector();
+MyDates["1210225"] = RandomVector();
+MyDates["1210226"] = RandomVector();
+MyDates["1210301"] = RandomVector();
+MyDates["1210302"] = RandomVector();
+MyDates["1210303"] = RandomVector();
+MyDates["1210304"] = RandomVector();
+MyDates["1210305"] = RandomVector();
+MyDates["1210308"] = RandomVector();
+MyDates["1210309"] = RandomVector();
+MyDates["1210310"] = RandomVector();

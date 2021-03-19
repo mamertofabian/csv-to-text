@@ -28,7 +28,9 @@ const processData = () => {
       const lineDiff = `KeyValues.Push_Back( ${row.diff} );`;
       const line4 = `MyDates["${formatDate(row.dt)}"] = KeyValues;`;
       // const item = `${line1}\n${line2}\n${line3}\n${line4}\n\n`;
-      const item = `${line1}\n${lineDiff}\n${line4}\n\n`;
+      // const item = `${line1}\n${lineDiff}\n${line4}\n\n`;
+      const dateOnly = `MyDates["${formatDate(row.dt)}"] = RandomVector();`;
+      const item = `${dateOnly}\n`;
       writeStream.write(item);
     })
     .on("end", () => {
